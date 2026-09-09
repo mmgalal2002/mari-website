@@ -1,0 +1,6 @@
+{
+  "name": "Offscript — Creative Media Portal",
+  "description": "Fourteen reasons to escape the ordinary. Discover anime, manga, and music in a refined, cinematic editorial collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
